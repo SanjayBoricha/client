@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/client/static/js/main.98a130a4.chunk.js",
+    "main.js.map": "/client/static/js/main.98a130a4.chunk.js.map",
+    "runtime~main.js": "/client/static/js/runtime~main.3fca2621.js",
+    "runtime~main.js.map": "/client/static/js/runtime~main.3fca2621.js.map",
+    "static/js/2.72703363.chunk.js": "/client/static/js/2.72703363.chunk.js",
+    "static/js/2.72703363.chunk.js.map": "/client/static/js/2.72703363.chunk.js.map",
+    "index.html": "/client/index.html",
+    "precache-manifest.a597f84d27a04916dcd2052a1fb88ada.js": "/client/precache-manifest.a597f84d27a04916dcd2052a1fb88ada.js",
+    "service-worker.js": "/client/service-worker.js"
+  }
+}
